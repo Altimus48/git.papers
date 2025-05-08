@@ -1,5 +1,5 @@
 # This is my paper.
-Written by ME
+Written by ME and John
 
 #Introduction
 
